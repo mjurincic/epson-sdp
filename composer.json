@@ -1,0 +1,14 @@
+{
+    "name": "defaults/standard",
+    "type": "project",
+    "description": "",
+    "license": "MIT",
+    "require": {
+        "ciroue/support": "dev-master",
+        "vlucas/phpdotenv": "^4.1.0"
+    },
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
